@@ -1,6 +1,18 @@
-# Queue
+# Queue - Challenge: Queues
 
-**TODO: Add description**
+Instructions: [Filas](https://www.notion.so/Desafio-01-Filas-4db900b9954b43cca1de35ae9d44da71).
+
+## Project commands
+### Prepare project
+```bash
+  # Intall dependencies
+  mix deps.get
+```
+### Run project
+```bash
+  # Use interactive elixir
+  iex -S mix
+```
 
 ## Installation
 
@@ -18,4 +30,3 @@ end
 Documentation can be generated with [ExDoc](https://github.com/elixir-lang/ex_doc)
 and published on [HexDocs](https://hexdocs.pm). Once published, the docs can
 be found at <https://hexdocs.pm/queue>.
-
